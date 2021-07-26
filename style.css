@@ -1,0 +1,51 @@
+hr.new1 {
+    border-top: 4px solid rgb(0, 0, 0);
+    width: 90%;
+    margin-top: 48px;
+    margin-left: 10px;
+    height: 0px;
+  }
+  p{
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+  .content {
+    overflow: auto;
+    border: 3px solid rgb(85, 61, 61);
+    background-color: gainsboro;
+  }
+  .content div {
+    padding: 10px;
+  }
+  .content a {
+    color: darkblue;
+  }
+  .blue {
+    margin: auto;
+    width: 50%;
+    background-color: #ffffff;
+  }
+  div.h5{
+    text-indent: 100px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  .mtable{
+      padding-left: 26px;
+  }
+  .new2{
+    border-top: 1px solid rgb(0, 0, 0);
+    width: 76%;
+    margin-top: 48px;
+    margin-left: 0px;
+    height: 0px;
+  }
+  .new3{
+    border-top: 3px solid rgb(0, 0, 0);
+    width: 76%;
+    margin-top: 20px;
+    margin-left: -45px;
+    height: 0px;
+  }
